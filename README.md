@@ -1,6 +1,4 @@
-### Hi people 👋
-
-🔭  I'm currently working as a freelancer.
+### Hi people! I'm currently working as a freelancer.
 
 Do you have some idea and no way to reproduce it? Let's talk!
 
